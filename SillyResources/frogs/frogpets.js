@@ -76,8 +76,8 @@ var arr_names = ["Abs", "Agnus", "Al-gea", "Amphibulus", "Scrubby", "Crusty", "B
 var arr_states = ["feed", "pet", "hug", "comfort"];
 
 //strings
-var str_path_img = "SillyResources/frogs/IMG";
-var str_path_snd = "SillyResources/frogs/SND";
+var str_path_img = "/SillyResources/frogs/IMG";
+var str_path_snd = "/SillyResources/frogs/SND";
 //sounds
 var snd_oliver;
 var snd_princess;
