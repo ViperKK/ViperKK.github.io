@@ -54,7 +54,7 @@ var arr_petCursor_scratch_left = ["CUR_SCRATCH_LEFT_FRAME01.png", "CUR_SCRATCH_L
 var arr_petCursor_scratch_right = ["CUR_SCRATCH_RIGHT_FRAME01.png", "CUR_SCRATCH_RIGHT_FRAME02.png"];
 var arr_petCursor_scratch_up = ["CUR_SCRATCH_UP_FRAME01.png", "CUR_SCRATCH_UP_FRAME02.png"];
 //paths
-var str_petCursor_directory = "pet_cursor/";//directory path to images
+var str_petCursor_directory = "https://viperkk.github.io/SillyResources/nekocur/pet_cursor/";//directory path to images
 //directions
 var str_petCursor_direction = "DOWN";
 var num_petCursor_prevX = 0;
