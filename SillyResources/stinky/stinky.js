@@ -36,8 +36,8 @@ var arr_snd_stinkystart = ["AUD_START"];
 
 //strings
 //paths
-var str_path_img = "/SillyResources/stinky/stinky_images";
-var str_path_snd = "/SillyResources/stinky/stinky_audio/";
+var str_path_img = "https://viperkk.github.io/SillyResources/stinky/stinky_images";
+var str_path_snd = "https://viperkk.github.io/SillyResources//stinky/stinky_audio/";
 //sounds
 var snd_fly01;
 var snd_fly02;
